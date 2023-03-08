@@ -5,7 +5,7 @@
     top: 0;
     left: 0;
     height: 4rem;
-    background: #cf0056;
+    background: #6e00cf;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,5 +20,5 @@
 </style>
 
 <header>
-  <h1>MeetUs</h1>
+  <h1>MeetGo!</h1>
 </header>
